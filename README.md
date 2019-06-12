@@ -8,7 +8,7 @@ Haskell-Gloss MicroMachines (LI1 Assignment)
 * Make sure you have [Gloss](http://hackage.haskell.org/package/gloss) installed
 
 ```
-ghc Tarefa5_2017li1g13
+ghc Tarefa5_2017li1g13.hs
 ```
 
 ```
