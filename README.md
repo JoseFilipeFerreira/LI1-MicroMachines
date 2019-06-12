@@ -17,7 +17,7 @@ ghc Tarefa5_2017li1g13.hs
 
 ### In-game Instructions
 
-![alt text](https://github.com/JoseFilipeFerreira/LI1-MicroMachines/blob/master/sprite/menu/helpMenu.bmp)
+![alt text](https://github.com/JoseFilipeFerreira/LI1-MicroMachines/blob/master/sprite/menu/helpMenuScalled.png)
 
 
 ## Dependency
