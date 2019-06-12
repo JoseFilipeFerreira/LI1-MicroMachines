@@ -1,6 +1,6 @@
 # LI1-MicroMachines
 
-Project done for "Laboratórios de Informática I" @ UMINHO
+Haskell-Gloss MicroMachines (LI1 Assignment)
 
 ## Getting Started
 ### Setting up
@@ -14,6 +14,11 @@ ghc  	Tarefa5_2017li1g13
 ```
 ./Tarefa5_2017li1g13
 ```
+
+### In-game Instructions
+
+![alt text](https://github.com/JoseFilipeFerreira/LI1-MicroMachines/blob/master/sprite/menu/helpMenu.bmp)
+
 
 ## Dependency
 
